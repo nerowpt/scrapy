@@ -1,0 +1,10 @@
+set filetype=python
+au BufNewFile,BufRead *.py,*.pyw setf python
+set autoindent
+set smartindent
+set ts=4
+set expandtab
+set enc=utf-8
+set number
+highlight LineNr cterm=bold ctermfg=red
+highlight LineNr cterm=bold ctermbg=black
