@@ -1,0 +1,72 @@
+2018-09-21 01:10:45,453 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:10:45,453 ERROR    root       weather:多云26 ~ 31℃/n
+2018-09-21 01:10:45,453 ERROR    root       shidu:湿度：64% 风向：南风 2级/n
+2018-09-21 01:10:45,453 ERROR    root       air:空气质量：优 PM: 13/n
+2018-09-21 01:10:46,502 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:10:46,502 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:10:46,502 ERROR    root       weather:多云19 ~ 25℃/n
+2018-09-21 01:10:46,502 ERROR    root       weather:多云19 ~ 25℃/n
+2018-09-21 01:10:46,502 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
+2018-09-21 01:10:46,502 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
+2018-09-21 01:10:46,502 ERROR    root       air:空气质量：优 PM: 35/n
+2018-09-21 01:10:46,502 ERROR    root       air:空气质量：优 PM: 35/n
+2018-09-21 01:10:47,507 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:10:47,507 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:10:47,507 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:10:47,508 ERROR    root       weather:多云22 ~ 26℃/n
+2018-09-21 01:10:47,508 ERROR    root       weather:多云22 ~ 26℃/n
+2018-09-21 01:10:47,508 ERROR    root       weather:多云22 ~ 26℃/n
+2018-09-21 01:10:47,509 ERROR    root       shidu:湿度：71% 风向：北风 3级/n
+2018-09-21 01:10:47,509 ERROR    root       shidu:湿度：71% 风向：北风 3级/n
+2018-09-21 01:10:47,509 ERROR    root       shidu:湿度：71% 风向：北风 3级/n
+2018-09-21 01:10:47,510 ERROR    root       air:空气质量：优 PM: 42/n
+2018-09-21 01:10:47,510 ERROR    root       air:空气质量：优 PM: 42/n
+2018-09-21 01:10:47,510 ERROR    root       air:空气质量：优 PM: 42/n
+2018-09-21 01:15:43,169 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:15:43,170 ERROR    root       weather:多云19 ~ 25℃/n
+2018-09-21 01:15:43,170 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
+2018-09-21 01:15:43,170 ERROR    root       air:空气质量：优 PM: 35/n
+2018-09-21 01:15:44,186 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:15:44,186 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:15:44,186 ERROR    root       weather:多云22 ~ 26℃/n
+2018-09-21 01:15:44,186 ERROR    root       weather:多云22 ~ 26℃/n
+2018-09-21 01:15:44,187 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
+2018-09-21 01:15:44,187 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
+2018-09-21 01:15:44,187 ERROR    root       air:空气质量：优 PM: 42/n
+2018-09-21 01:15:44,187 ERROR    root       air:空气质量：优 PM: 42/n
+2018-09-21 01:15:45,321 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:15:45,321 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:15:45,321 ERROR    root       fileName:weather20180921.txt/n
+2018-09-21 01:15:45,322 ERROR    root       weather:多云26 ~ 31℃/n
+2018-09-21 01:15:45,322 ERROR    root       weather:多云26 ~ 31℃/n
+2018-09-21 01:15:45,322 ERROR    root       weather:多云26 ~ 31℃/n
+2018-09-21 01:15:45,322 ERROR    root       shidu:湿度：63% 风向：南风 2级/n
+2018-09-21 01:15:45,322 ERROR    root       shidu:湿度：63% 风向：南风 2级/n
+2018-09-21 01:15:45,322 ERROR    root       shidu:湿度：63% 风向：南风 2级/n
+2018-09-21 01:15:45,322 ERROR    root       air:空气质量：优 PM: 13/n
+2018-09-21 01:15:45,322 ERROR    root       air:空气质量：优 PM: 13/n
+2018-09-21 01:15:45,322 ERROR    root       air:空气质量：优 PM: 13/n
+2018-09-21 01:17:44,256 ERROR    root       cityName:深圳/n
+2018-09-21 01:17:44,256 ERROR    root       weather:多云26 ~ 31℃/n
+2018-09-21 01:17:44,257 ERROR    root       shidu:湿度：63% 风向：南风 2级/n
+2018-09-21 01:17:44,257 ERROR    root       air:空气质量：优 PM: 13/n
+2018-09-21 01:17:45,278 ERROR    root       cityName:武汉/n
+2018-09-21 01:17:45,278 ERROR    root       cityName:武汉/n
+2018-09-21 01:17:45,278 ERROR    root       weather:多云19 ~ 25℃/n
+2018-09-21 01:17:45,278 ERROR    root       weather:多云19 ~ 25℃/n
+2018-09-21 01:17:45,278 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
+2018-09-21 01:17:45,278 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
+2018-09-21 01:17:45,278 ERROR    root       air:空气质量：优 PM: 35/n
+2018-09-21 01:17:45,278 ERROR    root       air:空气质量：优 PM: 35/n
+2018-09-21 01:17:46,282 ERROR    root       cityName:上海/n
+2018-09-21 01:17:46,282 ERROR    root       cityName:上海/n
+2018-09-21 01:17:46,282 ERROR    root       cityName:上海/n
+2018-09-21 01:17:46,282 ERROR    root       weather:多云22 ~ 26℃/n
+2018-09-21 01:17:46,282 ERROR    root       weather:多云22 ~ 26℃/n
+2018-09-21 01:17:46,282 ERROR    root       weather:多云22 ~ 26℃/n
+2018-09-21 01:17:46,283 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
+2018-09-21 01:17:46,283 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
+2018-09-21 01:17:46,283 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
+2018-09-21 01:17:46,283 ERROR    root       air:空气质量：优 PM: 42/n
+2018-09-21 01:17:46,283 ERROR    root       air:空气质量：优 PM: 42/n
+2018-09-21 01:17:46,283 ERROR    root       air:空气质量：优 PM: 42/n
