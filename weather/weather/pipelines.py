@@ -15,11 +15,10 @@ class WeatherPipeline(object):
         m1 = MyLog()
         today = time.strftime('%Y%m%d', time.localtime())
         fileName = 'weather' + today + '.txt'
+        m1.info('同步开始')
         with open(fileName, 'a') as fp:
             fp.write(item['cityName'].encode('utf-8')+'\t')
-            m1.error('cityName:' + item['cityName'].encode('utf-8') + '/n')
             fp.write(item['weather'].encode('utf-8')+'\t')
-            m1.error('weather:' + item['weather'].encode('utf-8') + '/n')
             imgName = os.path.basename(item['img'])
             fp.write(imgName+'\t')
             if os.path.exists(imgName):
@@ -29,8 +28,7 @@ class WeatherPipeline(object):
                     response = urllib2.urlopen(item['img'])
                     fp.write(response.read())
             fp.write(item['shidu'].encode('utf-8')+'\t')
-            m1.error('shidu:' + item['shidu'].encode('utf-8') + '/n')
             fp.write(item['air'].encode('utf-8')+'\n\n')
-            m1.error('air:' + item['air'].encode('utf-8') + '/n')
             time.sleep(1)
+        m1.info('同步结束')
         return item

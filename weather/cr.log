@@ -1,72 +1,258 @@
-2018-09-21 01:10:45,453 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:10:45,453 ERROR    root       weather:多云26 ~ 31℃/n
-2018-09-21 01:10:45,453 ERROR    root       shidu:湿度：64% 风向：南风 2级/n
-2018-09-21 01:10:45,453 ERROR    root       air:空气质量：优 PM: 13/n
-2018-09-21 01:10:46,502 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:10:46,502 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:10:46,502 ERROR    root       weather:多云19 ~ 25℃/n
-2018-09-21 01:10:46,502 ERROR    root       weather:多云19 ~ 25℃/n
-2018-09-21 01:10:46,502 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
-2018-09-21 01:10:46,502 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
-2018-09-21 01:10:46,502 ERROR    root       air:空气质量：优 PM: 35/n
-2018-09-21 01:10:46,502 ERROR    root       air:空气质量：优 PM: 35/n
-2018-09-21 01:10:47,507 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:10:47,507 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:10:47,507 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:10:47,508 ERROR    root       weather:多云22 ~ 26℃/n
-2018-09-21 01:10:47,508 ERROR    root       weather:多云22 ~ 26℃/n
-2018-09-21 01:10:47,508 ERROR    root       weather:多云22 ~ 26℃/n
-2018-09-21 01:10:47,509 ERROR    root       shidu:湿度：71% 风向：北风 3级/n
-2018-09-21 01:10:47,509 ERROR    root       shidu:湿度：71% 风向：北风 3级/n
-2018-09-21 01:10:47,509 ERROR    root       shidu:湿度：71% 风向：北风 3级/n
-2018-09-21 01:10:47,510 ERROR    root       air:空气质量：优 PM: 42/n
-2018-09-21 01:10:47,510 ERROR    root       air:空气质量：优 PM: 42/n
-2018-09-21 01:10:47,510 ERROR    root       air:空气质量：优 PM: 42/n
-2018-09-21 01:15:43,169 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:15:43,170 ERROR    root       weather:多云19 ~ 25℃/n
-2018-09-21 01:15:43,170 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
-2018-09-21 01:15:43,170 ERROR    root       air:空气质量：优 PM: 35/n
-2018-09-21 01:15:44,186 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:15:44,186 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:15:44,186 ERROR    root       weather:多云22 ~ 26℃/n
-2018-09-21 01:15:44,186 ERROR    root       weather:多云22 ~ 26℃/n
-2018-09-21 01:15:44,187 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
-2018-09-21 01:15:44,187 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
-2018-09-21 01:15:44,187 ERROR    root       air:空气质量：优 PM: 42/n
-2018-09-21 01:15:44,187 ERROR    root       air:空气质量：优 PM: 42/n
-2018-09-21 01:15:45,321 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:15:45,321 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:15:45,321 ERROR    root       fileName:weather20180921.txt/n
-2018-09-21 01:15:45,322 ERROR    root       weather:多云26 ~ 31℃/n
-2018-09-21 01:15:45,322 ERROR    root       weather:多云26 ~ 31℃/n
-2018-09-21 01:15:45,322 ERROR    root       weather:多云26 ~ 31℃/n
-2018-09-21 01:15:45,322 ERROR    root       shidu:湿度：63% 风向：南风 2级/n
-2018-09-21 01:15:45,322 ERROR    root       shidu:湿度：63% 风向：南风 2级/n
-2018-09-21 01:15:45,322 ERROR    root       shidu:湿度：63% 风向：南风 2级/n
-2018-09-21 01:15:45,322 ERROR    root       air:空气质量：优 PM: 13/n
-2018-09-21 01:15:45,322 ERROR    root       air:空气质量：优 PM: 13/n
-2018-09-21 01:15:45,322 ERROR    root       air:空气质量：优 PM: 13/n
-2018-09-21 01:17:44,256 ERROR    root       cityName:深圳/n
-2018-09-21 01:17:44,256 ERROR    root       weather:多云26 ~ 31℃/n
-2018-09-21 01:17:44,257 ERROR    root       shidu:湿度：63% 风向：南风 2级/n
-2018-09-21 01:17:44,257 ERROR    root       air:空气质量：优 PM: 13/n
-2018-09-21 01:17:45,278 ERROR    root       cityName:武汉/n
-2018-09-21 01:17:45,278 ERROR    root       cityName:武汉/n
-2018-09-21 01:17:45,278 ERROR    root       weather:多云19 ~ 25℃/n
-2018-09-21 01:17:45,278 ERROR    root       weather:多云19 ~ 25℃/n
-2018-09-21 01:17:45,278 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
-2018-09-21 01:17:45,278 ERROR    root       shidu:湿度：66% 风向：北风 3级/n
-2018-09-21 01:17:45,278 ERROR    root       air:空气质量：优 PM: 35/n
-2018-09-21 01:17:45,278 ERROR    root       air:空气质量：优 PM: 35/n
-2018-09-21 01:17:46,282 ERROR    root       cityName:上海/n
-2018-09-21 01:17:46,282 ERROR    root       cityName:上海/n
-2018-09-21 01:17:46,282 ERROR    root       cityName:上海/n
-2018-09-21 01:17:46,282 ERROR    root       weather:多云22 ~ 26℃/n
-2018-09-21 01:17:46,282 ERROR    root       weather:多云22 ~ 26℃/n
-2018-09-21 01:17:46,282 ERROR    root       weather:多云22 ~ 26℃/n
-2018-09-21 01:17:46,283 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
-2018-09-21 01:17:46,283 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
-2018-09-21 01:17:46,283 ERROR    root       shidu:湿度：76% 风向：北风 3级/n
-2018-09-21 01:17:46,283 ERROR    root       air:空气质量：优 PM: 42/n
-2018-09-21 01:17:46,283 ERROR    root       air:空气质量：优 PM: 42/n
-2018-09-21 01:17:46,283 ERROR    root       air:空气质量：优 PM: 42/n
+2018-09-24 19:48:16,576 ERROR    root       cityName:上海/n
+2018-09-24 19:48:16,576 ERROR    root       weather:多云20 ~ 25℃/n
+2018-09-24 19:48:17,221 ERROR    root       cityName:武汉/n
+2018-09-24 19:48:17,221 ERROR    root       cityName:武汉/n
+2018-09-24 19:48:17,221 ERROR    root       weather:阴转小雨18 ~ 25℃/n
+2018-09-24 19:48:17,221 ERROR    root       weather:阴转小雨18 ~ 25℃/n
+2018-09-24 19:48:18,032 ERROR    root       cityName:深圳/n
+2018-09-24 19:48:18,032 ERROR    root       cityName:深圳/n
+2018-09-24 19:48:18,032 ERROR    root       cityName:深圳/n
+2018-09-24 19:48:18,032 ERROR    root       weather:多云26 ~ 30℃/n
+2018-09-24 19:48:18,032 ERROR    root       weather:多云26 ~ 30℃/n
+2018-09-24 19:48:18,032 ERROR    root       weather:多云26 ~ 30℃/n
+2018-09-24 20:12:44,184 INFO     root       同步开始
+2018-09-24 20:12:45,187 INFO     root       同步结束
+2018-09-24 20:12:45,188 ERROR    root       转换json开始
+2018-09-24 20:12:45,188 ERROR    root       转换json开始
+2018-09-24 20:12:45,330 INFO     root       同步开始
+2018-09-24 20:12:45,330 INFO     root       同步开始
+2018-09-24 20:12:45,330 INFO     root       同步开始
+2018-09-24 20:12:46,332 INFO     root       同步结束
+2018-09-24 20:12:46,332 INFO     root       同步结束
+2018-09-24 20:12:46,332 INFO     root       同步结束
+2018-09-24 20:12:46,335 ERROR    root       转换json开始
+2018-09-24 20:12:46,335 ERROR    root       转换json开始
+2018-09-24 20:12:46,335 ERROR    root       转换json开始
+2018-09-24 20:12:46,335 ERROR    root       转换json开始
+2018-09-24 20:12:46,338 INFO     root       同步开始
+2018-09-24 20:12:46,338 INFO     root       同步开始
+2018-09-24 20:12:46,338 INFO     root       同步开始
+2018-09-24 20:12:46,338 INFO     root       同步开始
+2018-09-24 20:12:46,338 INFO     root       同步开始
+2018-09-24 20:12:47,340 INFO     root       同步结束
+2018-09-24 20:12:47,340 INFO     root       同步结束
+2018-09-24 20:12:47,340 INFO     root       同步结束
+2018-09-24 20:12:47,340 INFO     root       同步结束
+2018-09-24 20:12:47,340 INFO     root       同步结束
+2018-09-24 20:12:47,342 ERROR    root       转换json开始
+2018-09-24 20:12:47,342 ERROR    root       转换json开始
+2018-09-24 20:12:47,342 ERROR    root       转换json开始
+2018-09-24 20:12:47,342 ERROR    root       转换json开始
+2018-09-24 20:12:47,342 ERROR    root       转换json开始
+2018-09-24 20:12:47,342 ERROR    root       转换json开始
+2018-09-24 20:17:11,555 INFO     root       同步开始
+2018-09-24 20:17:12,557 INFO     root       同步结束
+2018-09-24 20:17:12,558 ERROR    root       转换json开始
+2018-09-24 20:17:12,558 ERROR    root       转换json开始
+2018-09-24 20:17:12,559 WARNING  root       转换json结束
+2018-09-24 20:17:12,559 WARNING  root       转换json结束
+2018-09-24 20:17:12,603 INFO     root       同步开始
+2018-09-24 20:17:12,603 INFO     root       同步开始
+2018-09-24 20:17:12,603 INFO     root       同步开始
+2018-09-24 20:17:12,603 INFO     root       同步开始
+2018-09-24 20:17:13,605 INFO     root       同步结束
+2018-09-24 20:17:13,605 INFO     root       同步结束
+2018-09-24 20:17:13,605 INFO     root       同步结束
+2018-09-24 20:17:13,605 INFO     root       同步结束
+2018-09-24 20:17:13,606 ERROR    root       转换json开始
+2018-09-24 20:17:13,606 ERROR    root       转换json开始
+2018-09-24 20:17:13,606 ERROR    root       转换json开始
+2018-09-24 20:17:13,606 ERROR    root       转换json开始
+2018-09-24 20:17:13,606 ERROR    root       转换json开始
+2018-09-24 20:17:13,607 WARNING  root       转换json结束
+2018-09-24 20:17:13,607 WARNING  root       转换json结束
+2018-09-24 20:17:13,607 WARNING  root       转换json结束
+2018-09-24 20:17:13,607 WARNING  root       转换json结束
+2018-09-24 20:17:13,607 WARNING  root       转换json结束
+2018-09-24 20:17:13,608 INFO     root       同步开始
+2018-09-24 20:17:13,608 INFO     root       同步开始
+2018-09-24 20:17:13,608 INFO     root       同步开始
+2018-09-24 20:17:13,608 INFO     root       同步开始
+2018-09-24 20:17:13,608 INFO     root       同步开始
+2018-09-24 20:17:13,608 INFO     root       同步开始
+2018-09-24 20:17:13,608 INFO     root       同步开始
+2018-09-24 20:17:14,611 INFO     root       同步结束
+2018-09-24 20:17:14,611 INFO     root       同步结束
+2018-09-24 20:17:14,611 INFO     root       同步结束
+2018-09-24 20:17:14,611 INFO     root       同步结束
+2018-09-24 20:17:14,611 INFO     root       同步结束
+2018-09-24 20:17:14,611 INFO     root       同步结束
+2018-09-24 20:17:14,611 INFO     root       同步结束
+2018-09-24 20:17:14,614 ERROR    root       转换json开始
+2018-09-24 20:17:14,614 ERROR    root       转换json开始
+2018-09-24 20:17:14,614 ERROR    root       转换json开始
+2018-09-24 20:17:14,614 ERROR    root       转换json开始
+2018-09-24 20:17:14,614 ERROR    root       转换json开始
+2018-09-24 20:17:14,614 ERROR    root       转换json开始
+2018-09-24 20:17:14,614 ERROR    root       转换json开始
+2018-09-24 20:17:14,614 ERROR    root       转换json开始
+2018-09-24 20:17:14,617 WARNING  root       转换json结束
+2018-09-24 20:17:14,617 WARNING  root       转换json结束
+2018-09-24 20:17:14,617 WARNING  root       转换json结束
+2018-09-24 20:17:14,617 WARNING  root       转换json结束
+2018-09-24 20:17:14,617 WARNING  root       转换json结束
+2018-09-24 20:17:14,617 WARNING  root       转换json结束
+2018-09-24 20:17:14,617 WARNING  root       转换json结束
+2018-09-24 20:17:14,617 WARNING  root       转换json结束
+2018-09-24 20:19:32,210 INFO     root       同步开始
+2018-09-24 20:19:33,212 INFO     root       同步结束
+2018-09-24 20:19:33,212 ERROR    root       转换json开始
+2018-09-24 20:19:33,212 ERROR    root       转换json开始
+2018-09-24 20:19:33,212 WARNING  root       转换json结束
+2018-09-24 20:19:33,212 WARNING  root       转换json结束
+2018-09-24 20:19:33,213 INFO     root       进行mysql存储
+2018-09-24 20:19:33,213 INFO     root       进行mysql存储
+2018-09-24 20:19:33,213 INFO     root       进行mysql存储
+2018-09-24 20:19:33,346 INFO     root       同步开始
+2018-09-24 20:19:33,346 INFO     root       同步开始
+2018-09-24 20:19:33,346 INFO     root       同步开始
+2018-09-24 20:19:33,346 INFO     root       同步开始
+2018-09-24 20:19:34,349 INFO     root       同步结束
+2018-09-24 20:19:34,349 INFO     root       同步结束
+2018-09-24 20:19:34,349 INFO     root       同步结束
+2018-09-24 20:19:34,349 INFO     root       同步结束
+2018-09-24 20:19:34,350 ERROR    root       转换json开始
+2018-09-24 20:19:34,350 ERROR    root       转换json开始
+2018-09-24 20:19:34,350 ERROR    root       转换json开始
+2018-09-24 20:19:34,350 ERROR    root       转换json开始
+2018-09-24 20:19:34,350 ERROR    root       转换json开始
+2018-09-24 20:19:34,352 WARNING  root       转换json结束
+2018-09-24 20:19:34,352 WARNING  root       转换json结束
+2018-09-24 20:19:34,352 WARNING  root       转换json结束
+2018-09-24 20:19:34,352 WARNING  root       转换json结束
+2018-09-24 20:19:34,352 WARNING  root       转换json结束
+2018-09-24 20:19:34,353 INFO     root       进行mysql存储
+2018-09-24 20:19:34,353 INFO     root       进行mysql存储
+2018-09-24 20:19:34,353 INFO     root       进行mysql存储
+2018-09-24 20:19:34,353 INFO     root       进行mysql存储
+2018-09-24 20:19:34,353 INFO     root       进行mysql存储
+2018-09-24 20:19:34,353 INFO     root       进行mysql存储
+2018-09-24 20:19:34,354 INFO     root       同步开始
+2018-09-24 20:19:34,354 INFO     root       同步开始
+2018-09-24 20:19:34,354 INFO     root       同步开始
+2018-09-24 20:19:34,354 INFO     root       同步开始
+2018-09-24 20:19:34,354 INFO     root       同步开始
+2018-09-24 20:19:34,354 INFO     root       同步开始
+2018-09-24 20:19:34,354 INFO     root       同步开始
+2018-09-24 20:19:35,356 INFO     root       同步结束
+2018-09-24 20:19:35,356 INFO     root       同步结束
+2018-09-24 20:19:35,356 INFO     root       同步结束
+2018-09-24 20:19:35,356 INFO     root       同步结束
+2018-09-24 20:19:35,356 INFO     root       同步结束
+2018-09-24 20:19:35,356 INFO     root       同步结束
+2018-09-24 20:19:35,356 INFO     root       同步结束
+2018-09-24 20:19:35,359 ERROR    root       转换json开始
+2018-09-24 20:19:35,359 ERROR    root       转换json开始
+2018-09-24 20:19:35,359 ERROR    root       转换json开始
+2018-09-24 20:19:35,359 ERROR    root       转换json开始
+2018-09-24 20:19:35,359 ERROR    root       转换json开始
+2018-09-24 20:19:35,359 ERROR    root       转换json开始
+2018-09-24 20:19:35,359 ERROR    root       转换json开始
+2018-09-24 20:19:35,359 ERROR    root       转换json开始
+2018-09-24 20:19:35,361 WARNING  root       转换json结束
+2018-09-24 20:19:35,361 WARNING  root       转换json结束
+2018-09-24 20:19:35,361 WARNING  root       转换json结束
+2018-09-24 20:19:35,361 WARNING  root       转换json结束
+2018-09-24 20:19:35,361 WARNING  root       转换json结束
+2018-09-24 20:19:35,361 WARNING  root       转换json结束
+2018-09-24 20:19:35,361 WARNING  root       转换json结束
+2018-09-24 20:19:35,361 WARNING  root       转换json结束
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:19:35,361 INFO     root       进行mysql存储
+2018-09-24 20:20:35,182 INFO     root       同步开始
+2018-09-24 20:20:36,184 INFO     root       同步结束
+2018-09-24 20:20:36,185 ERROR    root       转换json开始
+2018-09-24 20:20:36,185 ERROR    root       转换json开始
+2018-09-24 20:20:36,186 WARNING  root       转换json结束
+2018-09-24 20:20:36,186 WARNING  root       转换json结束
+2018-09-24 20:20:36,187 INFO     root       进行mysql存储
+2018-09-24 20:20:36,187 INFO     root       进行mysql存储
+2018-09-24 20:20:36,187 INFO     root       进行mysql存储
+2018-09-24 20:20:36,212 INFO     root       mysql存储完成
+2018-09-24 20:20:36,212 INFO     root       mysql存储完成
+2018-09-24 20:20:36,212 INFO     root       mysql存储完成
+2018-09-24 20:20:36,335 INFO     root       同步开始
+2018-09-24 20:20:36,335 INFO     root       同步开始
+2018-09-24 20:20:36,335 INFO     root       同步开始
+2018-09-24 20:20:36,335 INFO     root       同步开始
+2018-09-24 20:20:37,337 INFO     root       同步结束
+2018-09-24 20:20:37,337 INFO     root       同步结束
+2018-09-24 20:20:37,337 INFO     root       同步结束
+2018-09-24 20:20:37,337 INFO     root       同步结束
+2018-09-24 20:20:37,337 ERROR    root       转换json开始
+2018-09-24 20:20:37,337 ERROR    root       转换json开始
+2018-09-24 20:20:37,337 ERROR    root       转换json开始
+2018-09-24 20:20:37,337 ERROR    root       转换json开始
+2018-09-24 20:20:37,337 ERROR    root       转换json开始
+2018-09-24 20:20:37,338 WARNING  root       转换json结束
+2018-09-24 20:20:37,338 WARNING  root       转换json结束
+2018-09-24 20:20:37,338 WARNING  root       转换json结束
+2018-09-24 20:20:37,338 WARNING  root       转换json结束
+2018-09-24 20:20:37,338 WARNING  root       转换json结束
+2018-09-24 20:20:37,338 INFO     root       进行mysql存储
+2018-09-24 20:20:37,338 INFO     root       进行mysql存储
+2018-09-24 20:20:37,338 INFO     root       进行mysql存储
+2018-09-24 20:20:37,338 INFO     root       进行mysql存储
+2018-09-24 20:20:37,338 INFO     root       进行mysql存储
+2018-09-24 20:20:37,338 INFO     root       进行mysql存储
+2018-09-24 20:20:37,350 INFO     root       mysql存储完成
+2018-09-24 20:20:37,350 INFO     root       mysql存储完成
+2018-09-24 20:20:37,350 INFO     root       mysql存储完成
+2018-09-24 20:20:37,350 INFO     root       mysql存储完成
+2018-09-24 20:20:37,350 INFO     root       mysql存储完成
+2018-09-24 20:20:37,350 INFO     root       mysql存储完成
+2018-09-24 20:20:37,353 INFO     root       同步开始
+2018-09-24 20:20:37,353 INFO     root       同步开始
+2018-09-24 20:20:37,353 INFO     root       同步开始
+2018-09-24 20:20:37,353 INFO     root       同步开始
+2018-09-24 20:20:37,353 INFO     root       同步开始
+2018-09-24 20:20:37,353 INFO     root       同步开始
+2018-09-24 20:20:37,353 INFO     root       同步开始
+2018-09-24 20:20:38,355 INFO     root       同步结束
+2018-09-24 20:20:38,355 INFO     root       同步结束
+2018-09-24 20:20:38,355 INFO     root       同步结束
+2018-09-24 20:20:38,355 INFO     root       同步结束
+2018-09-24 20:20:38,355 INFO     root       同步结束
+2018-09-24 20:20:38,355 INFO     root       同步结束
+2018-09-24 20:20:38,355 INFO     root       同步结束
+2018-09-24 20:20:38,358 ERROR    root       转换json开始
+2018-09-24 20:20:38,358 ERROR    root       转换json开始
+2018-09-24 20:20:38,358 ERROR    root       转换json开始
+2018-09-24 20:20:38,358 ERROR    root       转换json开始
+2018-09-24 20:20:38,358 ERROR    root       转换json开始
+2018-09-24 20:20:38,358 ERROR    root       转换json开始
+2018-09-24 20:20:38,358 ERROR    root       转换json开始
+2018-09-24 20:20:38,358 ERROR    root       转换json开始
+2018-09-24 20:20:38,360 WARNING  root       转换json结束
+2018-09-24 20:20:38,360 WARNING  root       转换json结束
+2018-09-24 20:20:38,360 WARNING  root       转换json结束
+2018-09-24 20:20:38,360 WARNING  root       转换json结束
+2018-09-24 20:20:38,360 WARNING  root       转换json结束
+2018-09-24 20:20:38,360 WARNING  root       转换json结束
+2018-09-24 20:20:38,360 WARNING  root       转换json结束
+2018-09-24 20:20:38,360 WARNING  root       转换json结束
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,360 INFO     root       进行mysql存储
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成
+2018-09-24 20:20:38,372 INFO     root       mysql存储完成

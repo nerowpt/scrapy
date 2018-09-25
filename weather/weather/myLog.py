@@ -16,8 +16,8 @@ class MyLog(object):
         #logFile = './testLog.txt'
         logHand = logging.FileHandler(logFile)
         logHand.setFormatter(logFormat)
-        logHand.setLevel(logging.DEBUG)
-        logHand.setLevel(logging.ERROR)
+        logHand.setLevel(logging.INFO)
+ #       logHand.setLevel(logging.ERROR)
         logHandSt = logging.StreamHandler()
         logHandSt.setFormatter(logFormat)
         self.logger.addHandler(logHand)

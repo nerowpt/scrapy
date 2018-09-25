@@ -19,7 +19,11 @@ NEWSPIDER_MODULE = 'weather.spiders'
 #USER_AGENT = 'weather (+http://www.yourdomain.com)'
 
 #user add
-ITEM_PIPELINES = {'weather.pipelines.WeatherPipeline':1}
+ITEM_PIPELINES = {
+'weather.pipelines.WeatherPipeline':1,
+'weather.pipelines2json.WeatherPipeline':2,
+'weather.pipelines2mysql.WeatherPipeline':3
+}
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
